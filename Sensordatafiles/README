@@ -1,1 +1,43 @@
 
+Documentation on the data:
+"Cruise_vliz_data.csv"
+Contains the station nr, coordinates, nutrient data, pigment data, ctd data at 3 m depth, zooplankton groups and the underway data.
+This data is collected by VLIZ 
+Parameters are explained here:
+
+“Copy of SimonStevin_discrete FCM phytoplankon size fractions_RWS (00000002).csv”
+File contains the FCM data collected by RWS per station.
+Parameters are explained here:
+
+“Copy of FCM and fluoroProbe cnrs.csv”
+FCM Data collected by CNRS per station. 
+Parameters are explained here:
+
+“fractionate_vliz_FCM.csv”
+FCM data collected by VLIZ – Ugent per station.
+Parameters are explained here:
+
+"CHEMTAX_Muylaert_corrected.csv"
+Contains the phytoplankton groups according to Muylaert et al. 2006
+Parameters are explained here:
+
+"cnrs_fluoroprobe.csv"
+Data collected by CNRS per station. Parameter means  XXXX
+Currently, only the “meanoneuphoticlayer” are included in the complete combined datafile.
+
+“Synth-FRRF-TabStatC-VLIZ17.csv”
+Parameters are explained here:
+
+“Copy of wisp_RWS.csv”
+Wisp data collected by RWS per station. 
+Parameters are explained here:
+
+
+Extra parameters are added to the complete dataset:
+Mean surface current velocity (m/s)
+"BO2_curvelmean_ss" = mean surface current velocity (m/s)
+distance to shore unit Kilometers 
+"MS_biogeo05_dist_shore_5m" resolution of used datalayer is 5arcminutes
+Both parameter information was retrieved from the data set file MARSPEC 5m.7z at http://esapubs.org/archive/ecol/E094/086/metadata.php
+Total depth of the water column (m)
+“Depth”: Bathymetry data can be retrieved from [Emodnet](http://portal.emodnet-bathymetry.eu/) emodnet_mean.asc
