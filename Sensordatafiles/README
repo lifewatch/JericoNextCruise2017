@@ -5,31 +5,12 @@ Contains the station nr, coordinates, nutrient data, pigment data, ctd data at 3
 This data is collected by VLIZ 
 Parameters are explained here:
 
-“Copy of SimonStevin_discrete FCM phytoplankon size fractions_RWS (00000002).csv”
-File contains the FCM data collected by RWS per station.
-Parameters are explained here:
-
-“Copy of FCM and fluoroProbe cnrs.csv”
-FCM Data collected by CNRS per station. 
-Parameters are explained here:
-
 “fractionate_vliz_FCM.csv”
 FCM data collected by VLIZ – Ugent per station.
 Parameters are explained here:
 
 "CHEMTAX_Muylaert_corrected.csv"
 Contains the phytoplankton groups according to Muylaert et al. 2006
-Parameters are explained here:
-
-"cnrs_fluoroprobe.csv"
-Data collected by CNRS per station. Parameter means  XXXX
-Currently, only the “meanoneuphoticlayer” are included in the complete combined datafile.
-
-“Synth-FRRF-TabStatC-VLIZ17.csv”
-Parameters are explained here:
-
-“Copy of wisp_RWS.csv”
-Wisp data collected by RWS per station. 
 Parameters are explained here:
 
 
